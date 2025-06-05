@@ -17,7 +17,7 @@ This is a simple **Employee Management System** built using **Spring Boot**, **T
 
 | Employee List | Add Employee | Update Employee |
 |---------------|---------------|-----------------|
-| ![List](screenshots/employee_list.png) | ![Add](screenshots/add_employee.png) | ![Update](screenshots/update_employee.png) |
+| ![List](src/main/screenshoots/employee_list.PNG) | ![Add](src/main/screenshots/add_employee.png) | ![Update](src/main/screenshots/update_employee.png) |
 
 ---
 
